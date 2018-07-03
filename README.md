@@ -1,2 +1,2 @@
 # Language-Model
-语言模型
+基于LSTM的语言模型，参考《tensorflow实战》教程
